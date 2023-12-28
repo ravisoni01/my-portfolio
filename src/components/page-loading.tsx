@@ -18,5 +18,5 @@ export const PageLoading = () => {
     };
   }, []);
 
-  return <div className="bg-[#202020] h-full" id="loading_container" />;
+  return <div className="h-full" id="loading_container" />;
 };
